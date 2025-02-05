@@ -144,4 +144,4 @@ For any issues, feel free to **open an issue** or reach out to us at [info@san-c
 
 ## Demo
 
-[https://polar.san-company.com](Live Preview)
+https://polar.san-company.com
